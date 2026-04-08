@@ -1,4 +1,4 @@
-export default function Footer() {
+export default function TheFooter() {
   return (
     <footer>
       created by katenev 2026
